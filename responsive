@@ -1,0 +1,21 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="stylesheet" href="/assets/mobile.css" media="screen and (max-width: 640px)" />
+<link rel="stylesheet" href="/assets/tablet.css" media="screen and (min-width: 641px) and (max-width: 1024px)" />
+<link rel="stylesheet" href="/assets/wide.css" media="screen and (min-width: 1025px) and (max-width: 1399px)" /> 
+<link rel="stylesheet" href="/assets/large.css" media="screen and (min-width: 1400px)" /> 
+
+<link rel="stylesheet" href="/assets/portrait.css" media="all and (orientation:portrait)" /> 
+<link rel="stylesheet" href="/assets/landscape.css" media="all and (orientation:landscape)" />
+
+<!-- 
+  Modrnizr: Enable CSS3 and HTML5 support for older browsers
+  - custom built with all CSS3 and HTML5 checked + HTML5 Shim 
+-->
+<script type="text/javascript" src="/assets/modernizr.custom.50763.js"></script>
+
+<!-- 
+  Enable CSS3 Media Queries for all browsers 
+  - used instead of respond.js   
+-->
+<script type="text/javascript" src="/assets/css3-mediaqueries.js"></script>
