@@ -5,8 +5,7 @@
 <link rel="stylesheet" href="/assets/wide.css" media="screen and (min-width: 1025px) and (max-width: 1399px)" /> 
 <link rel="stylesheet" href="/assets/large.css" media="screen and (min-width: 1400px)" /> 
 
-<link rel="stylesheet" href="/assets/portrait.css" media="all and (orientation:portrait)" /> 
-<link rel="stylesheet" href="/assets/landscape.css" media="all and (orientation:landscape)" />
+<link rel="stylesheet" href="/assets/portrait.css" media="all and (orientation:portrait)" />
 
 <!-- 
   Modrnizr: Enable CSS3 and HTML5 support for older browsers
